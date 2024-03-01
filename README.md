@@ -4,7 +4,7 @@ Stop specific people from talking
 
 ## Installation
 
-[Download Plugin](https://github.com/spiretf/nochat/raw/master/plugin/nochat.smx)
+[Download Plugin](https://github.com/spiretf/nochat/raw/main/plugin/nochat.smx)
 
 ## Usage
 
