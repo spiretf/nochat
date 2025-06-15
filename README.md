@@ -1,3 +1,5 @@
+# Moved to https://codeberg.org/spire/nochat
+
 # NoChat
 
 Stop specific people from talking 
